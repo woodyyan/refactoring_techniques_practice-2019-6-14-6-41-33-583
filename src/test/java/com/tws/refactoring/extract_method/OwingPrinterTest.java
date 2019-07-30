@@ -25,7 +25,7 @@ public class OwingPrinterTest {
 
     @Test
     public void printOwing() {
-//        System.out.print("hello");
-//        assertEquals("hello", outContent.toString());
+        System.out.print("hello");
+        assertEquals("hello", outContent.toString());
     }
 }
